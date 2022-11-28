@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0de6b1ab5acf97cb",
+        "id": "2a6dd14307a13ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "f9240552680b1063",
+            "id": "02ce16bbfbba02a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Nightdoomer Podcast/Da Approfondire/Amazon Alexa is dying.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Nightdoomer Podcast/Da Approfondire/Amazon Alexa is dying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Nightdoomer Podcast/Da Approfondire/Amazon Alexa is dying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Nightdoomer Podcast/Da Approfondire/Amazon Alexa is dying.md"
               }
             }
           }
@@ -136,8 +136,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9240552680b1063",
+  "active": "02ce16bbfbba02a8",
   "lastOpenFiles": [
+    "Academia Da Leggere.md",
+    "Aziende Files.md",
+    "People Files.md",
+    "Untitled.md",
     "test.md"
   ]
 }

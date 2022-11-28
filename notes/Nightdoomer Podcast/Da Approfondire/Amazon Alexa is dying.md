@@ -1,3 +1,7 @@
+# Amazon Alexa Is Dying
+
+[[index]]
+
 If you have a limited data plan, it’s worth knowing how much data Amazon #Alexa uses. According to Amazon Echo data usage statistics, Alexa uses 36MB per day, which translates to 252MB per week or 1.08GB per month. The numbers are based on 30 minutes of music streaming, two smart-home commands, one question about the weather, and one general question.
 
 A report released last week contends that #Amazon uses voice data from its #Alexa Echo devices to serve targeted ads on its own platforms and the web. The report, produced by researchers affiliated with the University of Washington, UC Davis, UC Irvine, and Northeastern University, said the ways Amazon does this is inconsistent with its privacy policies. https://www.theverge.com/2022/4/28/23047026/amazon-alexa-voice-data-targeted-ads-research-report
