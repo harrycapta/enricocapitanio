@@ -46,4 +46,4 @@
 
 >[“Deep physical neural networks trained with backpropagation”](https://www.nature.com/articles/s41586-021-04223-6). What more is there to say?
 
-[[Notebook]]
+[[Notes]]

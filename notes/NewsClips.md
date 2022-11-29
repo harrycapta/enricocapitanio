@@ -18,4 +18,4 @@ Raddoppiano le vittime minorenni colpite dal reato di #sextortion, il ricatto a 
 
 Secondo il documento, "la #sextortion impatta su vittime minorenni, con effetti lesivi potenziati: la vergogna che i ragazzi provano impedisce loro di chiedere aiuto ai genitori o ai coetanei". Nel 2021 su 101 casi, 77 hanno riguardato la fascia 14-17 anni e 23 quella 10-13.
 
-[[Notebook]]
+[[Notes]]
