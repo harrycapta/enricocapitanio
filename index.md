@@ -10,4 +10,4 @@ I have experience coordinating with external software development and marketing 
 
 I have also coordinated with marketing and communication agencies for front-end content & data optimization.
 
-I love taking notes about everything.
+I love taking [Notes](/notes "Notebook") about everything.
