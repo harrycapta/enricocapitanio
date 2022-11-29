@@ -1,8 +1,8 @@
 :root {
-    --accent: #fff;
+    --accent: rgb(191, 250, 189);
     --grey: #444;
     --black: #000;
-    --white: rgb(0, 255, 0);
+    --white: rgb(242, 242, 242);
 }
 
 html {
@@ -12,8 +12,10 @@ html {
     color: var(--white);
 }
 
+strong {color:var(--accent)}
+
 body {
-    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-family: 'Karla', sans-serif;
     line-height: 1.65;
     
     display: flex;
