@@ -39,4 +39,21 @@
 “Our bodies, with the old genetic transmission, have not kept pace with the new language-produced cultural transmission of technology. So now, when social control breaks down, we must expect to see pathological destruction.”
 ― Donna J. Haraway, Simians, Cyborgs, and Women: The Reinvention of Nature
 
+---
+
+Quando la vita ti da limoni, non fateci una limonata. 
+Restitute alla vita i limoni! 
+Incazzatev! 
+Dite alla vita:
+"Non voglio i tuoi fottuti limoni! Che cazzo dovrei farci con questi?"
+
+Pretendete di vedere il manager della vita! 
+Fate si che la vita rimpianga il fottuto e miserabile giorno in cui ha pensato di darvi dei limoni! 
+
+"Tu sai chi sono io? 
+Sono l’uomo che brucerà la tua casa! 
+Con i limoni! 
+Metterò degli scienzati ad inventare un limone combustibile 
+che bruci la tua casa!"
+
 [[Notes]]

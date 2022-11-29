@@ -29,6 +29,11 @@ body {
     margin: 0 24px;
 }
 
+img {
+    border-style: none;
+    width: 100%;
+}
+
 @media only screen and (max-width: 468px) {
     .page-header {
         flex-direction: column;
@@ -43,6 +48,7 @@ body {
     align-items: center;
     margin-top: 8px;
 }
+
 
 .page-header nav a:not(:hover):not(:focus) {
     color: currentColor;
@@ -59,6 +65,10 @@ main {
     max-width: 60ch;
     width: 100%;
     margin: 0 auto;
+}
+
+.page-header__logo {
+    width:80px;
 }
 
 .page-footer {
