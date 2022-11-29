@@ -5,6 +5,7 @@ Cosa succede quando un leader mondiale si innamora di una filosofia folle ed è 
 Benvenuti alla 22 puntata di NightDoomer: mi raccomando, non lasciate crescere i vostri bambini sotto i semi di girasole.
 
 L'idea dei superuomini russi esisteva già prima del Cosmismo, naturalmente. Nei racconti del paganesimo popolare russo, oltre a storie di uccelli di fuoco, orsi che allevano bambine e granchi giganti che recuperano anelli magici in vulcani sottomarini, si trovano storie di sciamani, streghe ed eroi che possono attingere alle energie spirituali dell'universo per compiere imprese sovrumane. cit. [[Alpha Males]]
+
 Nel cristianesimo ortodosso russo, troviamo la teoria della divinizzazione, in sostanza: gli uomini possono diventare simili a Dio attraverso la pratica mistica. 
 Troviamo anche la concezione dello zar come imperatore divino che salverà il mondo stabilendo una teocrazia universale. E c'è  pure una tradizione secolare di esoterismo russo, che include figure come Madame Blavatsky e Gurdjieff, che sostenevano di poter attingere alle energie dell'universo per creare una nuova razza di uomini-dio.
 
@@ -26,8 +27,7 @@ BEH..
 I cremlinologi hanno colto quello che pensavano fosse un riferimento all'opera magna di Federov, quando Putin nel 2014 disse:
 
 Vogliamo tutti la stessa cosa: il benessere per la Russia. Quindi le relazioni tra le imprese e lo stato dovrebbero essere costruite sulla filosofia del compito comune.
-[[https://www.gazeta.ru/politics/2014/12/04_a_6328001.shtml
-]]
+[[Gazeta Article]](https://www.gazeta.ru/politics/2014/12/04_a_6328001.shtml)
 
 Anche nel 2014 (l'anno in cui Putin ha invaso per la prima volta l'Ucraina) ha citato la Giustificazione del Bene di Solovyev ai governatori regionali della Russia. Quindi questi due possono aver giocato un ruolo nella sua visione nascente di se stesso come uno zar che unisce il popolo russo in una missione santa. Ma le sue affiliazioni cosmiste vanno, purtroppo, più in profondità.
 
@@ -59,6 +59,8 @@ Il filosofo John Gray descrive la costruzione di Dio come "una specie di culto l
 
 Questo è simile alla visione di Huxley di una religione evolutiva-eugenetica per unire l'umanità, oltre che al finale di Interstellar. Come Huxley, Anatoly immaginava che lo stato usasse ogni mezzo di propaganda a sua disposizione per promuovere la costruzione di Dio. Lenin fu brevemente un fan di questa idea, ispirato dall'aver letto la Città del Sole di Tommaso Campanella, un'utopia magica rinascimentale dove i cittadini sono spiritualmente trasformati attraverso l'arte magica, l'architettura e l'eugenetica.
 
+[[Stavamo tutti al buio]]
+
 L'idea dell'evoluzione di una nuova specie - homo sovieticus - era abbastanza comune nei primi anni dell'URSS. Leon Trotsky ha scritto:
 
 L'uomo si prefigge di dominare i propri sentimenti, di elevare i suoi istinti alle altezze della coscienza, di renderli trasparenti, di estendere i fili della sua volontà nei recessi nascosti, e così di elevarsi ad un nuovo piano, di creare un tipo sociale biologico superiore, o, se volete, un superuomo.
@@ -67,7 +69,7 @@ Vedete, si cominciano a notare alcuni paralleli con il nazismo, il quale anch’
 
 Nella costruzione di Dio sovietica, si trova un'ossessione per il raggiungimento dell'immortalità che non si trova nel nazismo. Bogdanov, per esempio, sperimentò il prolungamento della longevità attraverso trasfusioni di sangue. Dopo 10 trasfusioni di sangue sosteneva di aver sospeso la perdita di capelli. Il suo amico Krasin era altrettanto ossessionato dall'immortalità. Al funerale di un amico nel 1921, dichiarò:
 
-Sono certo che verrà il tempo in cui la scienza diventerà onnipotente, che sarà in grado di ricreare un organismo deceduto... E sono certo che quando verrà quel tempo, quando la liberazione dell'umanità, utilizzando tutta la potenza della scienza e della tecnologia, la cui forza e capacità ora non possiamo immaginare, sarà in grado di resuscitare grandi figure storiche
+> Sono certo che verrà il tempo in cui la scienza diventerà onnipotente, che sarà in grado di ricreare un organismo deceduto... E sono certo che quando verrà quel tempo, quando la liberazione dell'umanità, utilizzando tutta la potenza della scienza e della tecnologia, la cui forza e capacità ora non possiamo immaginare, sarà in grado di resuscitare grandi figure storiche
 
 Quando Lenin morì nel 1924, Krasin tentò di congelare criogenicamente il suo corpo per prevenire la decomposizione. Non funzionò, così ordinò che il cadavere di Lenin fosse imbalsamato. Lui e Lunacharsky si unirono ad una 'Commissione di Immortalizzazione' per creare un mausoleo per Lenin. Era inteso come un santuario sacro per il bolscevismo, e un simbolo della futura resurrezione di Lenin e dell'umanità. Come dichiara lo slogan del Partito in un manifesto dell’epoca: Lenin è vissuto. Lenin vive. Lenin vivrà ancora.
 
@@ -95,12 +97,13 @@ i prossimi anni saranno decisivi. Chi prenderà il comando e chi rimarrà alla p
 
 Ha paragonato le civiltà ai vulcani, alcune dormienti, altre attive, e ha affermato che l'ethnos russo è ancora un vulcano attivo rispetto all'Europa morente. E nel febbraio 2021, Putin ha dichiarato:
 
-Credo nella passionalità, nella teoria della passionalità... La Russia non ha raggiunto il suo apice. Siamo in marcia, nella marcia dello sviluppo... Abbiamo un codice genetico infinito. Si basa sulla mescolanza del sangue.
+> Credo nella passionalità, nella teoria della passionalità... La Russia non ha raggiunto il suo apice. Siamo in marcia, nella marcia dello sviluppo... Abbiamo un codice genetico infinito. Si basa sulla mescolanza del sangue.
 
 Forse Putin si vede come un 'passionario' - un supereroe cosmico mutante con un'insolita energia intergalattica capace di unire e guidare il 'super-etnos' del popolo slavo. Certamente, pensa a russi, bielorussi  E UCRAINI come a "un solo popolo" - come ha detto nel saggio che ha pubblicato prima dell'invasione del 2022.
 
 Sembra anche credere che l'Occidente stia cercando di attaccare geneticamente il popolo slavo. Nel 2017, ha detto che le potenze straniere
-"raccolgono materiale biologico in tutto il nostro paese, di vari gruppi etnici, persone che vivono in diversi punti geografici della Federazione Russa, lo fanno di proposito e professionalmente".
+
+>"raccolgono materiale biologico in tutto il nostro paese, di vari gruppi etnici, persone che vivono in diversi punti geografici della Federazione Russa, lo fanno di proposito e professionalmente".
 
 L'anno successivo, ha parlato di armi biologiche "molto pericolose" che prendono di mira "alcuni gruppi etnici in modo selettivo". Dall'inizio della guerra, il Cremlino ha ripetuto l'idea che gli Stati Uniti stanno finanziando i biolab in Ucraina per sviluppare armi biologiche che possono colpire specifiche etnie.
 
@@ -121,7 +124,7 @@ Il titolo stesso rivela la strana fusione di razza e genetica - chiunque con un 
 
 Nel 2013, Putin ha detto che la Russia era ancora alla ricerca di una "idea nazionale", e in qualche modo quello che sta succedendo in Russia mostra il pericolo di preferire le idee mistiche alla realtà. Come nell'America di Trump, stiamo vedendo cosa succede quando idee pseudo-scientifiche e teorie cospiritualiste diventano politica di stato. 
 
-Ci si ritrova con uno stato e un esercito distrutti, guidati da uno "zar divino" gonfiato dall'ego ed impaurito dalla morte con un'idea spirituale impressa nella mente: l'unificazione, la protezione e la valorizzazione del "super-etnos" russo. 
+Ci si ritrova con uno stato e un esercito distrutti, guidati da uno "zar divino" [[Queen Victoria Syndrome]] gonfiato dall'ego ed impaurito dalla morte con un'idea spirituale impressa nella mente: l'unificazione, la protezione e la valorizzazione del "super-etnos" russo. 
 
 E tutto e tutti devono essere sacrificati a questo 'compito comune'.
 

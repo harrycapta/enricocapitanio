@@ -1,8 +1,12 @@
 :root {
-    --accent: rgb(191, 250, 189);
+    --accent: rgb(81, 243, 75);
     --grey: #444;
     --black: #000;
     --white: rgb(242, 242, 242);
+    --progress-bar-height: 3px;
+    --progress-bar-color: rgb(10, 10, 10);
+    --progress-bar-value-color: rgb(0, 255, 0);
+    --progress-bar-value: 20%;  
 }
 
 html {
@@ -28,7 +32,8 @@ body {
 @media only screen and (max-width: 468px) {
     .page-header {
         flex-direction: column;
-    }
+    }    
+    
 }
 
 .page-header {
@@ -154,4 +159,24 @@ small {font-size: 0.8em;}
 
 .backlink:hover .backlink__preview {
     display: block;
+}
+
+/* PROGRESS BAR */
+
+.progress-wrapper {
+    position: fixed;
+    left:0;
+    top:0;
+    opacity:0.4;
+}
+
+.progress-label {
+    DISPLAY: none;
+}
+
+progress {
+    width: 100vw;
+    border-radius: 0 0 2px 2px;
+    height: 3px;
+    position: absolute;
 }

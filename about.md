@@ -21,3 +21,8 @@ Full profile on [Linkedin](https://www.linkedin.com/in/enrico-capitanio/ "Enrico
 
 #### 2016 - 2012
 ***Lineabeta Spa*** / *Marketing Operations*
+
+---
+### Tools Used
+
+JIRA / CONFLUENCE / SHOPIFY+ / BIGCOMMERCE / API / C# / PYTHON
