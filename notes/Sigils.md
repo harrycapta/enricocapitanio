@@ -36,6 +36,8 @@ Morrison has also argued that modern corporate logos like "the McDonald's Golden
 
 > Corporate sigils are super-breeders. They attack unbranded imaginative space. They invade Red Square, they infest the cranky streets of Tibet, they etch themselves into hairstyles. They breed across clothing, turning people into advertising hoardings... The logo or brand, like any sigil, is a condensation, a compressed, symbolic summoning up of the world of desire which the corporation intends to represent... Walt Disney died long ago but his sigil, that familiar, cartoonish signature, persists, carrying its own vast weight of meanings, associations, nostalgia and significance.
 
+[[Generative AI]]
+
 [[chaos magik]]
 [[god]]
 [[cyberpunk]]

@@ -22,5 +22,6 @@ The Anthropocene has emerged as a popular scientific term used by scientists, th
 
 Moore, Jason W., ed. (2016). Anthropocene or Capitalocene? Nature, history, and the crisis of capitalism. Oakland, CA: PM Press. ISBN 978-1629631486.
 
+[[The Secrets of the Wood Wide Web]]
 [[Notes]]
 [[Quotes]]
