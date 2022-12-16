@@ -4,7 +4,7 @@
 ― Donna Haraway
 
 “It matters what matters we use to think other matters with; it matters what stories we tell to tell other stories with; it matters what knots knot knots, what thoughts think thoughts, what descriptions describe descriptions, what ties tie ties. It matters what stories make worlds, what worlds make stories.”
-― Donna J. Haraway, Staying with the Trouble: Making Kin in the Chthulucene
+― Donna J. Haraway, Staying with the Trouble: Making Kin in the Chthulucene [[The Secrets of the Wood Wide Web]]
 
 “Cyborg writing must not be about the Fall, the imagination of a once-upon-a-time wholeness before language, before writing, before Man. Cyborg writing is about the power to survive, not on the basis of original innocence, but on the basis of seizing the tools to mark the world that marked them as other.”
 ― Donna Haraway

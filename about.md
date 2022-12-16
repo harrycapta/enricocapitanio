@@ -8,6 +8,9 @@ title: About Me
 
 Full profile on [Linkedin](https://www.linkedin.com/in/enrico-capitanio/ "Enrico Capitanio Linkedin Profile")
 
+#### 2023
+***Dal Lago TTC** / *Digital Project Manager*
+
 #### 2022
 ***Brave Kid Srl*** / *Ecommerce Project Manager*
 
@@ -25,4 +28,4 @@ Full profile on [Linkedin](https://www.linkedin.com/in/enrico-capitanio/ "Enrico
 ---
 ### Tools Used
 
-JIRA / CONFLUENCE / SHOPIFY+ / BIGCOMMERCE / API / C# / PYTHON
+JIRA / CONFLUENCE / SHOPIFY+ / BIGCOMMERCE / API / C# / PYTHON / VUEJS
