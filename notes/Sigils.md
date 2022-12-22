@@ -6,7 +6,7 @@ In medieval magic, the term sigil was commonly used to refer to occult signs whi
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/2/2d/Sefer_raziel_segulot.png)
 
-An excerpt from Sefer Raziel HaMalakh featuring various magical sigils (or סגולות, segulot, in Hebrew).
+An excerpt from Sefer Raziel HaMalakh featuring various magical sigils (or סגולות, segulot, in Hebrew). [[Number seven]]
 
 A common method of creating the sigils of certain spirits was to use kameas, a special use case of magic squares — the names of the spirits were converted to numbers, which were then located on the magic square. The locations were then connected by lines, forming an abstract figure.
 
